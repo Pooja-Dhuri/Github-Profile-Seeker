@@ -1,10 +1,4 @@
 
-### MainPage
-![Screenshot (741)](https://user-images.githubusercontent.com/101567232/185653696-fe99d14a-009d-4eba-95d4-7dea490d3b0c.png)
-
-
-
-
 
 # Github-Profile-Seeker
 
@@ -26,7 +20,8 @@ This is mini-project .
 ## Screenshots
 
 **Main Page
-![trans1](https://user-images.githubusercontent.com/101567232/188797964-d30f6819-81aa-4c1a-ba12-465763d66be3.PNG)
+
+![Screenshot (741)](https://user-images.githubusercontent.com/101567232/185653696-fe99d14a-009d-4eba-95d4-7dea490d3b0c.png)
 ![trans2](https://user-images.githubusercontent.com/101567232/188797860-0106ec33-486c-47c4-89b9-b1daff2064fe.PNG)
 
 
@@ -35,7 +30,7 @@ This is mini-project .
 
 
 ### Github Repository : https://github.com/Pooja-Dhuri/Github-Profile-Seeker
-### Live Link : https://translation-app-clone.netlify.app/
+### Live Link : http://githubprofile-seeker.netlify.app/
 
 
 
