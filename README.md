@@ -22,7 +22,7 @@ This is mini-project .
 **Main Page
 
 ![Screenshot (741)](https://user-images.githubusercontent.com/101567232/185653696-fe99d14a-009d-4eba-95d4-7dea490d3b0c.png)
-![trans2](https://user-images.githubusercontent.com/101567232/188797860-0106ec33-486c-47c4-89b9-b1daff2064fe.PNG)
+![github2](https://user-images.githubusercontent.com/101567232/189200963-803304ae-ef1e-40d1-a410-ffa04352d263.PNG)
 
 
 ### LinkedIn Profile link:
