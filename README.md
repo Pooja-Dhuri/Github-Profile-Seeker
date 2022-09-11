@@ -4,11 +4,6 @@
 
 Hello Everyone !🌏 I have created this mini project where user can search for github profile and also see the details.
 
-
-## Details : 🔭
-
-This is mini-project .
-
 ## Tech Stack
 - HTML
 - CSS
